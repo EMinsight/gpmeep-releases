@@ -15,7 +15,7 @@ abstract: >-
   FP32 CUDA execution layer, MPI-based multi-GPU operation, device-resident
   monitors and reductions, explicit backend control, and evidence-bound
   correctness and release validation.
-repository-code: "https://github.com/Semiconductor-Nanophotonics-Laboratory/gpmeep-releases"
+repository-code: "https://github.com/iverydj/gpmeep-releases"
 url: "https://iverydj.github.io/"
 license: GPL-2.0-or-later
 keywords:
